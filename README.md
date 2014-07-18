@@ -36,8 +36,9 @@ python weiyun.py http://share.weiyun.com/01118854b800d71077ffd4f37df15a2c --resu
 
 Note
 ----
-Only tested in `python 2.7.x` and `wget 1.14`.
+Only tested in `python 2.7.5` and `wget 1.15`.
 
+Only supported single share file without password.
 
 
 
@@ -80,5 +81,6 @@ python weiyun.py http://share.weiyun.com/01118854b800d71077ffd4f37df15a2c --resu
 
 备注
 ----
-仅在 `python 2.7.x` 和 `wget 1.14` 下测试。
+仅在 `python 2.7.5` 和 `wget 1.15` 下测试。
 
+只支持无密码的单个分享文件。
